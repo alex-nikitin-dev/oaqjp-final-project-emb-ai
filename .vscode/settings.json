@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/emenv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
